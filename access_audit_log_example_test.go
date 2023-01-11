@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	cloudflare "github.com/cloudflare/cloudflare-go"
+	cloudflare "github.com/mar4uk/cloudflare-go"
 )
 
 func ExampleAPI_AccessAuditLogs() {
